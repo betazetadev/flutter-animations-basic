@@ -1,5 +1,5 @@
 # 🎬 Flutter Animations Demo
-A practical example showcasing **three essential types of animations in Flutter**:
+A practical example showcasing three essential types of animations in Flutter:
 
 ✅ **Implicit Animations** – Automatically animate size, color, alignment, and opacity changes.  
 ✅ **Explicit Animations** – Manually control animations using `AnimationController`.  
@@ -63,7 +63,7 @@ flutter run
 
 ```
 
-# Customization
+# 🎨 Customization
 
 - Modify animation values to adjust duration, interpolation curve, etc.
 - Change the UI layout, colors, and styles to match your design requirements.
@@ -71,6 +71,6 @@ flutter run
 - Implement additional features like gesture-based animations, physics-based animations, etc.
 - Have fun experimenting with different animations and effects!
 
-# License
+# 📄 License
 
 This project is licensed under the MIT License.
