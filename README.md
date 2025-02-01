@@ -35,7 +35,7 @@ A practical example showcasing **three essential types of animations in Flutter*
 
 ```bash
 
-git clone
+git clone git@github.com:betazetadev/flutter-animations-basic.git
 
 ```
 
