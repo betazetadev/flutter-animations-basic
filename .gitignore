@@ -1,0 +1,69 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+# IntelliJ related
+.idea/
+*.iml
+# VS Code related
+.vscode/
+# Android related
+*.apk
+*.aar
+*.ap_
+*.hprof
+*.keystore
+*.jks
+# iOS related
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcworkspace
+*.xcuserstate
+DerivedData/
+# Xcode
+*.xcassets
+# Swift Package Manager
+.build/
+# CocoaPods
+Pods/
+# Flutter
+flutter_export_environment.sh
+# Generated files
+*.log
+# Temporary files
+*.tmp
+*.temp
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# Linux
+*~
+# C++ related
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+# Kotlin/Java related
+*.class
+*.jar
+*.war
+*.ear
+# Gradle related
+.gradle/
+build/
+# Android Studio
+local.properties
+
+android
+ios
+web
+windows
+linux
+macos
