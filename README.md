@@ -6,7 +6,7 @@ A practical example showcasing three essential types of animations in Flutter:
 ✅ **Hero Animation** – Smooth transitions between screens using shared elements.
 
 ## 📸 Preview
-![Flutter Animations](Screenshot.png)
+![Titled "Animation Demo" showcases a clean and minimalistic interface designed to explore different types of animations. It features a main heading that reads "Animation Demo" and a subheading stating "Explore Different Types of Animations." Below this, three sections are presented in card-like formats: "Implicit Animations," which automatically animate size, color, opacity, and alignment; "Explicit Animations," allowing users to manually control scaling animations with start and reverse buttons; and "Hero Animation," where users can tap a widget to experience a smooth transition between screens. Each section includes an illustrative icon above its title, enhancing the visual appeal.](./Screenshot.png)
 
 ## 🚀 Features
 - Implementation of **implicit animations** (`AnimatedContainer`, `AnimatedOpacity`, `AnimatedAlign`, `AnimatedSwitcher`).
