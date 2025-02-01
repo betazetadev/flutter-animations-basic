@@ -6,7 +6,7 @@ A practical example showcasing three essential types of animations in Flutter:
 ✅ **Hero Animation** – Smooth transitions between screens using shared elements.
 
 ## 📸 Preview
-![Flutter Animations](flutter-animations-cover.png)
+![Flutter Animations](Screenshot.png)
 
 ## 🚀 Features
 - Implementation of **implicit animations** (`AnimatedContainer`, `AnimatedOpacity`, `AnimatedAlign`, `AnimatedSwitcher`).
@@ -17,7 +17,7 @@ A practical example showcasing three essential types of animations in Flutter:
 ## 📂 Project Structure
 ```bash
   
-    flutter_animations_demo/
+    flutter_animations_basic/
     │── lib/
     │   ├── main.dart               # Main screen with navigation
     │   ├── implicit_animations.dart # Implicit animations
