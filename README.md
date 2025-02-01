@@ -43,7 +43,7 @@ git clone git@github.com:betazetadev/flutter-animations-basic.git
 
 ```bash
 
-cd flutter_animations_demo
+cd flutter_animations_basic
 
 ```
 
@@ -62,14 +62,6 @@ flutter pub get
 flutter run
 
 ```
-
-# 🎨 Customization
-
-- Modify animation values to adjust duration, interpolation curve, etc.
-- Change the UI layout, colors, and styles to match your design requirements.
-- Add more animations or screens to further enhance the demo.
-- Implement additional features like gesture-based animations, physics-based animations, etc.
-- Have fun experimenting with different animations and effects!
 
 # 📄 License
 
